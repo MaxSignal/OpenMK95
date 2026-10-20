@@ -1,0 +1,7 @@
+build*/
+samples/
+*.sav
+*.bmp
+*.ppm
+__pycache__/
+.DS_Store
